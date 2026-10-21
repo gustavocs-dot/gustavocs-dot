@@ -29,10 +29,11 @@ Hacking Ético**. Estou no início desse caminho e, antes de entrar de fato na
 
 ## Em desenvolvimento
 
-- **Java** — lógica de programação ([Oficina de Monitoria de Java](https://github.com/gustavocs-dot/Oficina-Monitoria-Java))
-- **Python** — CS50's Introduction to Programming with Python, de Harvard
-- **Arch Linux** — começando a usar no dia a dia
-- **Git e GitHub** — versionamento e publicação dos meus trabalhos
+- **Java** — lógica de programação na [Oficina de Monitoria de Java](https://github.com/gustavocs-dot/Oficina-Monitoria-Java), com anotações e exercícios próprios versionados
+- **Python** — CS50's Introduction to Programming with Python, de Harvard, com os exercícios publicados no GitHub
+- **Arch Linux** — instalação manual do zero com criptografia LUKS e Btrfs com subvolumes, com todo o processo documentado no repositório [archlinux](https://github.com/gustavocs-dot/archlinux); hoje é meu ambiente de estudo, com manutenção semanal
+- **Git e GitHub** — parte do meu fluxo de trabalho: versiono projetos, exercícios e trabalhos dos cursos de Java, Python e da faculdade, mantendo repositórios organizados e documentados
+- **IA no desenvolvimento** — uso Claude, Claude Code e outras ferramentas de IA como apoio para estudar, revisar código, depurar erros e documentar projetos
 
 ## Contato
 
